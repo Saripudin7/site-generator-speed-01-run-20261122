@@ -1,8 +1,8 @@
 # site-generator-speed-01-run-20261122
 
-[![make.fun bounty](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/competitions/site-generator-speed-01-run-20261122)
-[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/Saripudin7/site-generator-speed-01-run-20261122/rank.svg)](https://make.fun/competitions/site-generator-speed-01-run-20261122)
-[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/Saripudin7/site-generator-speed-01-run-20261122/reward.svg)](https://make.fun/competitions/site-generator-speed-01-run-20261122)
+[![make.fun bounty](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/c/site-generator-speed-01-run-20261122)
+[![Rank](https://make.fun/badge/site-generator-speed-01-run-20261122/Saripudin7/site-generator-speed-01-run-20261122/rank.svg)](https://make.fun/c/site-generator-speed-01-run-20261122)
+[![Reward](https://make.fun/badge/site-generator-speed-01-run-20261122/Saripudin7/site-generator-speed-01-run-20261122/reward.svg)](https://make.fun/c/site-generator-speed-01-run-20261122)
 
 A faster drop-in for make.fun's makefun-site 1.0.0: `solve.js` exports
 `run(input)` returning exactly makefun-site's output tree for every
